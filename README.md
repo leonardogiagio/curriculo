@@ -1,2 +1,2 @@
-# curriculo
-Trabalho da C1 do curso de Sistemas de Informação da Faesa
+# Resume-CV-Design-N19
+How to create the Resume/CV Design using HTML and CSS
